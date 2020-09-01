@@ -1,4 +1,4 @@
-package com.springtut.springbootjokerapp;
+package com.springtut.springbootjokeapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

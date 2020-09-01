@@ -1,4 +1,4 @@
-package com.springtut.springbootjokerapp;
+package com.springtut.springbootjokeapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
