@@ -16,6 +16,7 @@ public class JokeController {
     this.jokeService = jokeService;
   }
 
+  @RequestMapping({"/",""})
   public String showJoke(Model model){
     return null;
   }
